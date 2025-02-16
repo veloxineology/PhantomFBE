@@ -37,5 +37,3 @@ This module is provided **as is**, without any guarantees. Use at your own risk.
 ---
 🔗 **Follow my work:**  
 - **GitHub**: [@veloxineology](https://github.com/veloxineology)
-- **Instagram**: [@kaushikieee](https://instagram.com/kaushikieee)
-- **Snapchat**: [@veloxine.rr](https://www.snapchat.com/add/veloxine.rr)
